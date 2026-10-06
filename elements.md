@@ -27,11 +27,11 @@ code block
 Horizontal line. make sure you use below in empty line.
 ---
 
-``Strike through``
+~~Strike through~~
 
 Hyperlink [click here label](url)
 
 
-line break - use 2 spaces at the end of the line
-blank lines - enter enter key (twice)
+line break - use 2 spaces at the end of the line  
+blank lines - enter enter key (twice)  
 
