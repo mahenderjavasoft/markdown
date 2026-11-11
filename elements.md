@@ -35,3 +35,8 @@ Hyperlink [click here label](url)
 line break - use 2 spaces at the end of the line  
 blank lines - enter enter key (twice)  
 
+# Table 
+|Header 1|Header 2|Header 3|
+|---|---|---|
+|Value 1|Value 2|Value 3|
+|Value 100|Value 200|Value 300|
