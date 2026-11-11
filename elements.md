@@ -40,3 +40,15 @@ blank lines - enter enter key (twice)
 |---|---|---|
 |Value 1|Value 2|Value 3|
 |Value 100|Value 200|Value 300|
+
+
+```mermaid
+flowchart TD
+    A[Rectangle]
+    B(Rounded)
+    C([Stadium])
+    D[[Subroutine]]
+    E[(Cylindrical)]
+    F((Circle))
+    G>Asymmetric]
+```
